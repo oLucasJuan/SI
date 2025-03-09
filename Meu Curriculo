@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Meu currículo</title>
+    </head>
+    <body>
+        <h1>Lucas Juan Alves Ruas</h1>
+            <p>Olá, <strong>boas vindas</strong> ao meu primeiro parágrafo literalmente.</p>
+                <ol>
+                    <li>Olá meu nome é Lucas Juan Alves Ruas, tenho 23 anos, sou natural de Belo Horizonte - MG.</li>
+                    <li>Sou Bacharel em Direito pela UNA, Pós Graduado em Direito de Familia e Sucessões pela Milton Campos e agora me inserindo em um novo desafio de cursa Sistema de Informação</li>
+                    <li>Hablo un poco de espanhol, pero es intermedio. I don't speak English, but I understand.</li>
+                    <li>Formas de entrar em contato</li>
+                        <ul>
+                            <li><a href="https://www.linkedin.com/in/lucas-juan-alves-ruas-092a5b22b/">Linkedin</a></li>
+                            <li><a href="https://github.com/oLucasJuan">Github</a></li>
+                        </ul>
+                </ol>
+                <img src="eu.png" alt="Foto de perfil">
