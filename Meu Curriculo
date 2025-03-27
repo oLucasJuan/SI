@@ -4,6 +4,16 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Meu currículo</title>
+        <style>
+            div{
+                background-color: rgb(241, 201, 90);
+                width: 400px;
+                height: 50px;
+                padding: 10;
+                color: rgb(0, 0, 0);
+                font-family: 'Times New Roman', Times, serif;
+            }
+        </style>
     </head>
     <body>
         <h1>Lucas Juan Alves Ruas</h1>
@@ -19,3 +29,6 @@
                         </ul>
                 </ol>
                 <img src="eu.png" alt="Foto de perfil">
+                <div>ISTO É MAIS DIFICIL DO QUE EU PENSAVA
+                    PÓREM ESTÁ SENDO MANEIRO APRENDER TANTO COISA
+                </div>
