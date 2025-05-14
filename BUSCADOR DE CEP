@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Buscar CEP</title>
+    <link rel="stylesheet" href="ATV.CSS">
+</head>
+<body>
+    <div class="container">
+        <h1>Buscar CEP</h1>
+        <div class="input-group">
+            <label for="cep">CEP:</label>
+            <input type="text" id="cep" placeholder="Digite o CEP (apenas números)">
+            <button onclick="buscarEndereco()">Buscar</button>
+        </div>
+        <div id="resultado" class="resultado">
+            </div>
+    </div>
+
+    <script src="ATV.JAVASCRIPT"></script>
+</body>
+</html>
